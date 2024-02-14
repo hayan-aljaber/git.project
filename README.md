@@ -1,2 +1,2 @@
-# git.project
+# GIT.PROJECT
 by elzero web shcool 
